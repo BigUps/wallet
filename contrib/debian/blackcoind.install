@@ -1,0 +1,2 @@
+debian/bin/Bigupd usr/bin
+src/Bigupd usr/lib/Bigup

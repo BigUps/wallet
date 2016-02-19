@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Bigup
+Comment=Bigup P2P Cryptocurrency
+Comment[fr]=Bigup, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Bigup, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/Bigup-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/Bigup;
+Categories=Office;

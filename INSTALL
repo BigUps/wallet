@@ -1,0 +1,9 @@
+Building Bigup
+
+See doc/readme-qt.rst for instructions on building Bigup QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Bigup.
+
+See doc/build-*.txt for instructions on building Bigupd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Bigup.
