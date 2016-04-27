@@ -91,6 +91,16 @@ public:
         assert(genesis.hashMerkleRoot == uint256("0x12630d16a97f24b287c8c2594dda5fb98c9e6c70fc61d44191931ea2aa08dc90"));
 
         vSeeds.push_back(CDNSSeedData("52.26.37.254", "52.26.37.254"));
+        vSeeds.push_back(CDNSSeedData("216.189.153.244", "216.189.153.244"));
+        vSeeds.push_back(CDNSSeedData("45.55.236.105", "45.55.236.105"));
+        vSeeds.push_back(CDNSSeedData("54.191.50.172", "54.191.50.172"));
+        vSeeds.push_back(CDNSSeedData("173.206.93.227", "173.206.93.227"));
+        vSeeds.push_back(CDNSSeedData("81.2.249.166", "81.2.249.166"));
+        vSeeds.push_back(CDNSSeedData("144.76.71.141", "144.76.71.141"));
+        vSeeds.push_back(CDNSSeedData("76.69.227.172", "76.69.227.172"));
+        vSeeds.push_back(CDNSSeedData("87.2.53.225", "87.2.53.225"));
+        vSeeds.push_back(CDNSSeedData("185.93.68.25", "185.93.68.25"));
+        vSeeds.push_back(CDNSSeedData("seed1.bigup.club", "seed1.bigup.club"));
 
 
         base58Prefixes[PUBKEY_ADDRESS] = list_of(25);
